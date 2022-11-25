@@ -1,2 +1,2 @@
 # Quiz-App
-About Project : A Quiz App with multiple choice questions which displays the scoreboard to the player.
+About Project : A Quiz App with multiple choice questions which displays the scoreboard to the player. Using HTML, CSS and JavaScript.
